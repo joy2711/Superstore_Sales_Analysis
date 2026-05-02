@@ -1,11 +1,11 @@
-# 📊 Superstore Sales Analysis (SQL Project)
+# Superstore Sales Analysis (SQL Project)
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes retail sales data from a global Superstore to uncover business insights related to revenue, customers, products, geography, and shipping performance. The goal is to demonstrate SQL skills in data cleaning, exploration, and business-driven analysis.
 
 ---
 
-## 🗂️ Dataset Description
+## Dataset Description
 The dataset used in this project is the Superstore Sales Dataset, which contains four years of retail transaction data including:
 
 Product information
@@ -17,14 +17,14 @@ Due to repository size and dataset distribution policies, the dataset is not sto
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - MySQL
 - SQL (Data analysis & transformation)
 - MySQL Workbench
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 01_database_setup.sql → Database creation  
 02_table_schema.sql → Table structure definition  
@@ -39,7 +39,7 @@ Due to repository size and dataset distribution policies, the dataset is not sto
 
 ---
 
-## 📊 Key Business Insights
+## Key Business Insights
 
 - Technology category generates the highest revenue across all segments.
 - Consumer segment contributes the most total sales, but Corporate shows higher revenue per customer.
@@ -51,7 +51,7 @@ Due to repository size and dataset distribution policies, the dataset is not sto
 
 ---
 
-## 🎯 Key KPIs Calculated
+## Key KPIs Calculated
 - Total Revenue
 - Total Orders
 - Total Customers
@@ -60,7 +60,7 @@ Due to repository size and dataset distribution policies, the dataset is not sto
 
 ---
 
-## 📈 Skills Demonstrated
+## Skills Demonstrated
 - SQL data cleaning and transformation
 - Aggregations and grouping analysis
 - Window functions
@@ -72,7 +72,7 @@ Due to repository size and dataset distribution policies, the dataset is not sto
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 - Build dashboard in Power BI or Tableau
 - Add predictive sales forecasting
 - Perform cohort analysis on customer behavior

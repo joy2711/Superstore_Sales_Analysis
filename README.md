@@ -8,11 +8,12 @@ This project analyzes retail sales data from a global Superstore to uncover busi
 ## Dataset Description
 The dataset used in this project is the Superstore Sales Dataset, which contains four years of retail transaction data including:
 
-Product information
-Customer segments
-Geographic regions
-Order and shipping dates
-Sales values
+Product information,
+Customer segments,
+Geographic regions,
+Order and shipping dates, and
+Sales values.
+
 Due to repository size and dataset distribution policies, the dataset is not stored directly in this repository.
 
 ---
@@ -26,16 +27,15 @@ Due to repository size and dataset distribution policies, the dataset is not sto
 
 ## Project Structure
 
-01_database_setup.sql → Database creation  
-02_table_schema.sql → Table structure definition  
-03_data_ingestion.sql → CSV data import & cleaning  
-04_data_validation.sql → Data quality checks  
-05_kpi_analysis.sql → Key business metrics  
-06_product_analysis.sql → Product performance insights  
-07_segment_analysis.sql → Customer segmentation analysis  
-08_geography_analysis.sql → Regional performance analysis  
-09_time_series_analysis.sql → Sales trends over time  
-10_shipping_analysis.sql → Shipping performance analysis  
+01_table_schema.sql → Table structure definition  
+02_data_ingestion.sql → CSV data import & cleaning  
+03_data_validation.sql → Data quality checks  
+04_kpi_analysis.sql → Key business metrics  
+05_product_analysis.sql → Product performance insights  
+06_segment_analysis.sql → Customer segmentation analysis  
+07_geography_analysis.sql → Regional performance analysis  
+08_time_series_analysis.sql → Sales trends over time  
+09_shipping_analysis.sql → Shipping performance analysis  
 
 ---
 
